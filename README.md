@@ -1,16 +1,16 @@
-#komlplexprogprojekt
+# komlplexprogprojekt
 
-##Programterv
+## Programterv
 Ez a projekt egy színes játék. Kicsit fura, de legalább egyedi.
 
-##Felhasznált Techmológiák
+## Felhasznált Techmológiák
 -C#
 -Django(Phyton)
 
-##Telepítés
+## Telepítés
 kell hozzá egy windows operációs rendszer
 
-##Érdekesebb megoldások
+## Érdekesebb megoldások
 ```
     
 ```

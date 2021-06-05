@@ -3,7 +3,7 @@
 ## Programterv
 Ez a projekt egy színes játék. Kicsit fura, de legalább egyedi.
 
-## Felhasznált Techmológiák
+## Felhasznált Technológiák
 - C#
 
 ## Telepítés

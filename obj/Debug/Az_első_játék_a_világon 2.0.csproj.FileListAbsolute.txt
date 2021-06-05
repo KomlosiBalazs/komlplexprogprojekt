@@ -1,0 +1,7 @@
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\bin\Debug\Az_első_játék_a_világon 2.0.exe.config
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\bin\Debug\Az_első_játék_a_világon 2.0.exe
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\bin\Debug\Az_első_játék_a_világon 2.0.pdb
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\obj\Debug\Az_első_játék_a_világon 2.0.csprojAssemblyReference.cache
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\obj\Debug\Az_első_játék_a_világon 2.0.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\obj\Debug\Az_első_játék_a_világon 2.0.exe
+C:\Users\warlo\source\repos\Az_első_játék_a_világon 2.0\obj\Debug\Az_első_játék_a_világon 2.0.pdb
